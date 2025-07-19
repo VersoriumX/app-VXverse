@@ -1,1 +1,1 @@
-export * from 'https://webaverse.github.io/lore/lore-model.js';
+export * from 'https://webaverse.github.io/VersoriumX/lore/lore-model.js';
